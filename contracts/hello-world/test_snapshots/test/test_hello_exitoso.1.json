@@ -107,6 +107,21 @@
                         "key": {
                           "vec": [
                             {
+                              "symbol": "ContadorPorUsuario"
+                            },
+                            {
+                              "address": "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK3M"
+                            }
+                          ]
+                        },
+                        "val": {
+                          "u32": 2
+                        }
+                      },
+                      {
+                        "key": {
+                          "vec": [
+                            {
                               "symbol": "ContadorSaludos"
                             }
                           ]
